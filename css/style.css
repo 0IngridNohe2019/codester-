@@ -1,0 +1,38 @@
+.fondo1 {
+	background:url("../images/53.jpg")no-repeat center;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	height: 500px;
+	width: 100%;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+.titu{
+	color: #080808; 
+	font-weight: bolder;
+	font-size: 30px;
+	background-color: #EE4812;
+}
+.miu{
+	color: #FFF;
+}
+.N{
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+.ga{
+	background-color: #EE4812;
+}
+.selec:hover{
+	background-color: #0B0B0B;
+}
+.tat{
+	color: #EE4812;
+}
+
+
+
+EE4812
+
